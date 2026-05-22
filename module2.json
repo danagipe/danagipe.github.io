@@ -1,0 +1,28 @@
+{
+    "id": "HyperdriveFleet_HuskGnomeScythe",
+    "title": "Hyperdrive Fleet - Husk Gnome Scythe",
+    "description": "<p>This module provides the Husk Gnome Scythe ship with all variations by Hyperdrive Fleet. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+    "author": "Hyperdrive Fleet",
+
+    "packs": [
+    {
+      "label": "Husk Gnome Scythe - Scenes",
+      "type": "Scene",
+      "name": "scenes",
+      "path": "Packs/maps.db"
+    }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/Hyperdrivefleet/",
+    "manifest": "https://www.dropbox.com/s/t4q3b1jr6u46ebs/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/3qjw9w4iu9dwju2/HyperdriveFleet-HuskGnomeScythe.zip?dl=1"
+}
