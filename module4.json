@@ -1,0 +1,28 @@
+{
+    "id": "HyperdriveFleet-Horus918-FarPortal",
+    "title": "Hyperdrive Fleet - Horus 918 - Far Portal",
+    "description": "<p>This module provides the Horus 918 - Far Portal with all variations by Hyperdrive Fleet. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+    "author": "Hyperdrive Fleet",
+
+    "packs": [
+    {
+      "label": "Horus 918 - Far Portal - Scenes",
+      "type": "Scene",
+      "name": "scenes",
+      "path": "Packs/maps.db"
+    }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/Hyperdrivefleet/",
+    "manifest": "https://www.dropbox.com/s/go1c9a8oq9ubn1j/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/h95pzyyn2ho9a34/HyperdriveFleet-Horus918FarPortal.zip?dl=1"
+}
