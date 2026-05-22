@@ -1,0 +1,28 @@
+{
+    "id": "HyperdriveFleet-Odyssey12-Terraformer",
+    "title": "Hyperdrive Fleet - Odyssey 12 - Terraformer",
+    "description": "<p>This module provides the Odyssey 12 - Terraformer with all variations by Hyperdrive Fleet. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+    "author": "Hyperdrive Fleet",
+
+    "packs": [
+    {
+      "label": "Odyssey 12 - Terraformer - Scenes",
+      "type": "Scene",
+      "name": "scenes",
+      "path": "Packs/maps.db"
+    }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/Hyperdrivefleet/",
+    "manifest": "https://www.dropbox.com/s/cobjtwn4l8k0jv1/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/u1771u8n1hvdlcq/HyperdriveFleet-Odyssey%2012-Terraformer.zip?dl=1"
+}
